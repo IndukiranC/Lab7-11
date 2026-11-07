@@ -9,7 +9,7 @@ public class App {
             return "A";
         } else if (score >= 80) {
             return "B";
-        } else if (score >= 40) {
+        } else if (score >= 70) {
             return "C";
         } else {
             return "Fail";
